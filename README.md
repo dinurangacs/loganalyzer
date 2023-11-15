@@ -38,8 +38,8 @@ python app.py
 ## Screenshots
 
 ### Parsed Log DataFrame
-![Parsed Log DataFrame](Screenshots/1.jpg)
+![Parsed Log DataFrame](Screenshots/2.JPG)
 
 ### Statistics
-![Statistics](screenshots/2.jpg)
+![Statistics](Screenshots/3.JPG)
 
