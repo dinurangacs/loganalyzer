@@ -33,4 +33,13 @@ This script takes user input for firewall log entries, parses them, and performs
 ## Usage
 
 ```bash
-python firewall_log_analyzer.py
+python app.py
+
+## Screenshots
+
+### Parsed Log DataFrame
+![Parsed Log DataFrame](Screenshots/1.jpg)
+
+### Statistics
+![Statistics](screenshots/2.jpg)
+
