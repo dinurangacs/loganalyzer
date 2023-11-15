@@ -38,8 +38,9 @@ python app.py
 ## Screenshots
 
 ### Parsed Log DataFrame
-![Parsed Log DataFrame](https://drive.google.com/file/d/1g7i9EHYdM-hkjWQiWORku3R8ItM2XhbL/view?usp=sharing)
+<img src="[https://raw.githubusercontent.com/dinurangacs/loganalyzer/main/Screenshots/2.JPG" alt="Parsed Log DataFrame](https://github.com/dinurangacs/loganalyzer/blob/main/Screenshots/2.JPG)" width="500">
 
 ### Statistics
-![Statistics](Screenshots/3.JPG)
+<img src="https://raw.githubusercontent.com/your-username/your-repository/main/screenshots/2.jpg" alt="Statistics" width="500">
+
 
