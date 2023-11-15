@@ -38,7 +38,7 @@ python app.py
 ## Screenshots
 
 ### Parsed Log DataFrame
-![Parsed Log DataFrame](Screenshots/2.JPG)
+![Parsed Log DataFrame](https://drive.google.com/file/d/1g7i9EHYdM-hkjWQiWORku3R8ItM2XhbL/view?usp=sharing)
 
 ### Statistics
 ![Statistics](Screenshots/3.JPG)
