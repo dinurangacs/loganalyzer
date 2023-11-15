@@ -35,12 +35,6 @@ This script takes user input for firewall log entries, parses them, and performs
 ```bash
 python app.py
 
-## Screenshots
 
-### Parsed Log DataFrame
-<img src="[https://raw.githubusercontent.com/dinurangacs/loganalyzer/main/Screenshots/2.JPG" alt="Parsed Log DataFrame](https://github.com/dinurangacs/loganalyzer/blob/main/Screenshots/2.JPG)" width="500">
-
-### Statistics
-<img src="https://raw.githubusercontent.com/your-username/your-repository/main/screenshots/2.jpg" alt="Statistics" width="500">
 
 
